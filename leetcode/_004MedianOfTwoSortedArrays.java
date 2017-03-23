@@ -5,12 +5,11 @@ package algorithm_basic_accumulation.leetcode;
  * Example 1:
  * nums1 = [1, 3]
  * nums2 = [2]
- * <p>
  * The median is 2.0
+ * <p>
  * Example 2:
  * nums1 = [1, 2]
  * nums2 = [3, 4]
- * <p>
  * The median is (2 + 3)/2 = 2.5
  */
 public class _004MedianOfTwoSortedArrays {

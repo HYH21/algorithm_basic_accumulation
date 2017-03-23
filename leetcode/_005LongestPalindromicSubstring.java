@@ -4,9 +4,7 @@ package algorithm_basic_accumulation.leetcode;
  * Created by HYH on 2017/3/23.
  * <p>
  * Input: "babad"
- * <p>
  * Output: "bab"
- * <p>
  * Note: "aba" is also a valid answer.
  */
 public class _005LongestPalindromicSubstring {

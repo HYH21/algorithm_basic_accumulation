@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Created by HYH on 2017/3/25.
+ *
+ * 算数学期望，保留三位小数，直接算就好了，AC：100%
  */
 public class one {
 

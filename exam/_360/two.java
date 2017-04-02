@@ -5,7 +5,10 @@ import java.util.Scanner;
 /**
  * Created by HYH on 2017/3/25.
  *
+ * 偶串：找出有多少个子串是偶串
+ * 例如输入"abbc"，输出 1
  *
+ * 暴力统计并输出，只能达到了AC：69%
  */
 public class two {
 

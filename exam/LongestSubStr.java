@@ -9,8 +9,9 @@ import java.util.List;
  * <p>
  * 最长重复子串，蛮力法，后缀数组法
  * http://www.cnblogs.com/ider/p/longest-common-substring-problem-optimization.html
+ * meitu
  */
-public class Meitu_LongestSubStr {
+public class LongestSubStr {
 
     /**
      * 蛮力法，时间复杂度在O(n^3)这附近

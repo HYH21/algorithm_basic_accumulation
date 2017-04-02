@@ -5,8 +5,9 @@ package algorithm_basic_accumulation.exam;
  * <p>
  * 最长公共子序列
  * https://segmentfault.com/a/1190000002641054#articleHeader11
+ * meitu
  */
-public class Meitu_Expan_LongestStrSequence {
+public class Expan_LongestStrSequence {
 
     public static String lrs(String strA, String strB) {
         // 由于计算只涉及到两层，所以可以优化成只用个两行的数组来进行处理

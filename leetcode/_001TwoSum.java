@@ -55,7 +55,7 @@ public class _001TwoSum {
                 return new int[]{i, map.get(complement)};
             }
         }
-        throw new IllegalArgumentException("No three sum solution");
+        throw new IllegalArgumentException("No sum solution");
     }
 
 
@@ -76,6 +76,6 @@ public class _001TwoSum {
             }
             map.put(nums[i], i);
         }
-        throw new IllegalArgumentException("No three sum solution");
+        throw new IllegalArgumentException("No sum solution");
     }
 }
